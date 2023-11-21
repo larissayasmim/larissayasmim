@@ -1,7 +1,7 @@
 
 <p align="center">
 <br>
-  <img  width="1000" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1700596509/_b182340a-43fa-42f6-ab03-3ea28d15eb3d-PhotoRoom.png-PhotoRoom_ttps3w.png"/>
+  <img  width="800" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1700596509/_b182340a-43fa-42f6-ab03-3ea28d15eb3d-PhotoRoom.png-PhotoRoom_ttps3w.png"/>
 </p>
 
 
